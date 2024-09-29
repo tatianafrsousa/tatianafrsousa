@@ -1,5 +1,5 @@
 # Hi there, I'm Tatiana Sousa! 👋
-# 🎓 Student aspiring to be a Full-Stack Developer
+🎓 **Student aspiring to be a Full-Stack Developer**
 
 - 💞️ I'm a passionate developer diving deep into **AI** and **machine learning**.
 - 🌱 I'm focused on learning and specializing in using technologies like **HTML**, **CSS**, **PHP**, **JavaScript**, **Bootstrap**, **ASP.NET**, **SQL** and **MySQL**, **Python** and **C**.
@@ -44,6 +44,9 @@ Languages and Technologies that I currently know:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatianafrsousa)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tatianafrsousa@gmail.com)
 
+## 🎯 Life Goals
+
+As a passionate and curious individual, I am committed to becoming a dedicated professional in **AI development** and **programming**, with a focus on creating solutions that improve people's lives. My journey is about constantly evolving, honing my skills, and embracing new challenges. I thrive in team settings, always aiming for collaboration and excellence, and I’m the first to step up when my colleagues need assistance. My ultimate goal is to use my knowledge and creativity to build impactful projects that inspire and empower others.
 
 <!---
 tatianafrsousa/tatianafrsousa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
