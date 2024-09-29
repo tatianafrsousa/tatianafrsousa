@@ -1,8 +1,8 @@
 # Hi there, I'm Tatiana Sousa! 👋
-🎓 Student aspiring to be a Full-Stack Developer
+# 🎓 Student aspiring to be a Full-Stack Developer
 
-💞️ I'm a passionate developer diving deep into **AI** and **machine learning**.
-🌱 I'm focused on learning and specializing in using technologies like **HTML**, **CSS**, **PHP**, **JavaScript**, **Bootstrap**, **ASP.NET**, **SQL** and **MySQL**, **Python** and **C**.
+- 💞️ I'm a passionate developer diving deep into **AI** and **machine learning**.
+- 🌱 I'm focused on learning and specializing in using technologies like **HTML**, **CSS**, **PHP**, **JavaScript**, **Bootstrap**, **ASP.NET**, **SQL** and **MySQL**, **Python** and **C**.
 
 
 ## 💻 Tech Stack:
@@ -26,7 +26,7 @@ Languages and Technologies that I currently know:
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
 
-  - **Office Tools**:  
+- **Office Tools**:  
   ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
   ![PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
   ![Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
