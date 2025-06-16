@@ -13,29 +13,29 @@ I believe in lifelong learning, in using tech to empower others, and in coding n
 
 ## 💻 Tech Stack  
 **Languages:**  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
-![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Frameworks & Platforms:**  
-![React (Fluent UI)](https://img.shields.io/badge/Fluent%20UI-0078D4?style=flat&logo=microsoft&logoColor=white)  
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dot-net&logoColor=white)  
-![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=flat&logo=microsoftpowerpoint&logoColor=white)  
+![React (Fluent UI)](https://img.shields.io/badge/Fluent%20UI-0078D4?style=flat&logo=microsoft&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dot-net&logoColor=white)
+![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=flat&logo=microsoftpowerpoint&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=flat&logo=powerapps&logoColor=white)
 
 **Tools:**  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![XrmToolBox](https://img.shields.io/badge/XrmToolBox-1E1E1E?style=flat&logo=dataverse&logoColor=white)  
+![XrmToolBox](https://img.shields.io/badge/XrmToolBox-1E1E1E?style=flat&logo=dataverse&logoColor=white)
 
 ---
 
@@ -44,7 +44,7 @@ I believe in lifelong learning, in using tech to empower others, and in coding n
 - **MFA PCF Component** – Secure login with TOTP generation via Azure Key Vault and Power Platform. *(private repository)*
 
 **Course Projects:**  
-- [**Writing Platform**] – A platform merging writing tools and community support for writers. *(not yet uploaded)*  
+- **Writing Platform** – A platform merging writing tools and community support for writers. *(not yet uploaded)*  
 - [**ClinicaDatabase**](https://github.com/tatianafrsousa/clinicaDatabase) – Medical records system using PHP and MySQL.  
 - [**ClinicaWebsite**](https://github.com/tatianafrsousa/clinicaWebsite) – Complete front-end & back-end medical scheduling platform.
 
