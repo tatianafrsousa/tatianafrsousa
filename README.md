@@ -4,7 +4,7 @@
 ---
 
 ## 💡 About Me  
-I'm a passionate software developer with hands-on experience in Microsoft Dynamics 365, Power Platform, and Azure-integrated solutions. 
+I'm a software developer with hands-on experience in Microsoft Dynamics 365, Power Platform, and Azure-integrated solutions. 
 Currently diving deep into automation, full-stack development, and AI integration.
 I thrive on solving real-world problems with code. I'm always looking to level up and build things that matter.
 I believe in lifelong learning, in using tech to empower others, and in coding not just for profit, but for progress.
